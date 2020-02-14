@@ -18,6 +18,7 @@
   "homepage": "https://github.com/knightmac19/GreatBay#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "inquirer": "^7.0.4"
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
   }
 }
